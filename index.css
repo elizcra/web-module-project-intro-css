@@ -52,14 +52,28 @@ footer {
 
 header {
     display: inline-flex;
+    margin-bottom: 5%;
 }
 
 header img {
     border-radius: 50%;
-    width: 225px;
+    width: 275px;
     height: auto;
 }
 
-#guide {
-    margin-top: 5%
+#guide h1 {
+    line-height: 2.6;
+    font-size: 40px;
+    margin-top: 0;
+    word-spacing: 10px;
 }
+
+#guide p {
+    margin-right: 17%; 
+    margin-left: 17%;
+}
+
+.p1 {
+    margin-bottom: 3%;
+}
+
