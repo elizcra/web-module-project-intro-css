@@ -51,11 +51,15 @@ footer {
 }
 
 header {
-    
+    display: inline-flex;
 }
 
 header img {
     border-radius: 50%;
-    width: 200px;
+    width: 225px;
     height: auto;
+}
+
+#guide {
+    margin-top: 5%
 }
