@@ -52,13 +52,14 @@ footer {
 
 header {
     display: inline-flex;
-    margin-bottom: 5%;
+    margin-bottom: 3%;
 }
 
 header img {
     border-radius: 50%;
     width: 275px;
     height: auto;
+    margin-left: 5%;
 }
 
 #guide h1 {
@@ -77,3 +78,36 @@ header img {
     margin-bottom: 3%;
 }
 
+#main {
+    margin: 0 15%;
+    margin-bottom: 3%;
+    color: #ffffff;
+    padding: 10px 15px;
+}
+
+#main .p1 {
+    margin-bottom: 15px;
+}
+
+#camping img {
+    width: 110px;
+    height: auto;
+}
+
+#camping {
+    margin: 0 40%;
+}
+
+#camping p {
+    margin-bottom: 50px;
+}
+
+footer {
+    margin: 0 1px;
+}
+
+footer img {
+    width: 100%;
+    height: 300px;
+    overflow: hidden;
+}
