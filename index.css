@@ -9,12 +9,42 @@
     background-color: #FF764E;
 }
 
+#upper .plan:hover {
+    background-color: #e68f74;
+}
+
+#upper .plan:active {
+    background-color: #e68f74;
+    box-shadow: 0 5px #666666;
+    transform: translateY(4px);
+}
+
 .learn {
     background-color: #5ED3EB;
 }
 
+#upper .learn:hover {
+    background-color: #7ec4d2;
+}
+
+#upper .learn:active {
+    background-color: #7ec4d2;
+    box-shadow: 0 5px #666666;
+    transform: translateY(4px);
+}
+
 .get {
     background-color: #FFCD69;
+}
+
+#upper .get:hover {
+    background-color: #e6c88d;
+}
+
+#upper .get:active {
+    background-color: #e6c88d;
+    box-shadow: 0 5px #666666;
+    transform: translateY(4px);
 }
 
 h1 {
