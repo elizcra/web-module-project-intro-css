@@ -108,28 +108,20 @@ header img {
     margin-bottom: 3%;
 }
 
-#main {
-    margin: 0 15%;
-    margin-bottom: 3%;
-    color: #ffffff;
-    padding: 10px 15px;
+#form {
+    background-color: #E0DEDD;
+    margin-right: 40%;
+    margin-left: 40%;
+    margin-bottom: 30px;
+    padding: 15px;
 }
 
-#main .p1 {
+#form p {
     margin-bottom: 15px;
 }
 
-#camping img {
-    width: 110px;
-    height: auto;
-}
-
-#camping {
-    margin: 0 40%;
-}
-
-#camping p {
-    margin-bottom: 50px;
+.container .col-25, .col-75 {
+    text-align: left;
 }
 
 footer {
